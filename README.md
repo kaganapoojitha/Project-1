@@ -1,2 +1,2 @@
 # Project-1
-My first Got repository 
+My first Git repository 
